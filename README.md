@@ -3,7 +3,7 @@
 This is praneeth from **EEE**.Born in AP and living in tamil nadu makes me a perfect south indian.All my developpement as a child and studies took place in tn only.
 * **CAREER**:
 
-|**SRNO.|NAME OF INSTITUTE|CLASSES|COMMENTS                                                 |**
+|**SRNO.|NAME OF INSTITUTE|CLASSES|COMMENTS|**
  
 | 1     |      NCS        |LKG to8|  a military school made me feel like an indian          |
 
