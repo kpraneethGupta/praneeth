@@ -88,13 +88,19 @@ th, td {
                  
                                                               
                                                                  <p>Please feel free to give ur opinions</p>                                                             
-  <form action="/action_page.php" target="_blank" method="GET">
+  <form id="frm1" action="/action_page.php" target="_blank" method="GET">
    name:<br>
   <input type="text" name="name"><br>
   comments:<br>
   <input type="text" name="comments"><br>
   <input type="submit" value="Submit">
 </form>
+ <script>
+function myFunction() {
+    document.getElementById("frm1").submit();
+}
+</script>
+                                    
                                      
                                                                                                 
                               </body>
